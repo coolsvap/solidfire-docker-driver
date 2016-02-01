@@ -85,7 +85,7 @@ ISCSI packages installed on each Docker node.
 
   * Redhat variants<br>
   ```
-  sud yum in stall iscsi-initiator-utils
+  sudo yum in stall iscsi-initiator-utils
   ```
 
 ## Driver Installation
